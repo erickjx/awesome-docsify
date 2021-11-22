@@ -84,6 +84,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [NoteBook](https://notebook.js.org) - Record the computer professional knowledge you have learned along the way.
 - [breadbot](http://breadbot.js.org/) - A discord bot who likes bread -or jokes.
 - [幸福拾荒者](https://xflihaibo.github.io/docs/#/) - A poetic front-end documentation library.
+- [字节飞扬](https://bytesfly.github.io/blog/) - A blog documenting personal growth. (互联网是有记忆的，我想留下一些成长的脚印)
 - [euchre-cli](https://bradleycwojcik.github.io/euchre-cli/) - Play euchre in your terminal.
 - [fastdocs.io](https://fastdocs.io/) - Instantly deploy your docs with Docsify without any code!
 - [Anki](https://docs.ankiweb.net/) - A powerful cross-platform flashcard program which makes remembering things easy.
@@ -101,15 +102,22 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [celery.node](https://celery-node.js.org) - Celery task queue client/worker for Node.js.
 - [asdf](https://asdf-vm.com/) - A version manager for multiple languages and clis.
 - [Corhyam's Wiki](http://corhyam.xyz/) - A personal wiki that deploys to the cloud rapidly, based on Serverless Framework.
-- [Apollo](https://ctripcorp.github.io/apollo) - A reliable configuration management system.
+- [Apollo](https://www.apolloconfig.com/) - A reliable configuration management system.
 - [Sureness](https://usthe.com/sureness) - A simple and efficient open-source security framework that focus on protection of REST API.   
 - [ArchLinuxTutorial](https://archlinuxstudio.github.io/ArchLinuxTutorial/) - Arch Linux Tutorial. (Arch Linux 安装使用教程)
 - [What's up Docker?](https://fmartinou.github.io/whats-up-docker/) - A tool that helps you keep your Docker containers up-to-date.
 - [Layotto](https://mosn.io/layotto/#/en/README) - Layotto (L8):To be the next layer of OSI layer 7.
+- [LinuxNetworkProgrammingAndEncryption](https://archlinuxstudio.github.io/LinuxNetworkProgrammingAndEncryption/) - Linux Network Programming And Encryption. (Linux 网络编程与加密 WIP)
+- [BitcoinMythBusters](https://bitcoinmythbusters.org/) - BitcoinMythBusters: Copy & Pasteable rebuttals to common critiques regarding Bitcoin.
+- [Hyrule Compendium API](https://gadhagod.github.io/Hyrule-Compendium-API) - A web API serving data on items from the video game _The Legend of Zelda: Breath of the Wild_.
+- [NOJ Online Judge](https://njuptaaa.github.io/docs) - Yet another open-source online judge platform based on Laravel, NOJ stands for Nanjing University of Posts and Telecommunications Online Judge.
+- [ShellTutorial](https://archlinuxstudio.github.io/ShellTutorial/) - Shell Tutorial. (Linux 命令行与 Shell 脚本教程)
+- [node-musickit-api](https://musickit.js.org/) - Documentation for node-musickit-api, a wrapper for the Apple Music API.
 
 ## Community Resources
 
 - [docsify-open-course-starter-kit](https://hibbitts-design.github.io/docsify-open-course-starter-kit) - A ready-to-use template to create a Docsify open course website. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes an optional "Edit this Page" link. [@hibbittsdesign](https://github.com/hibbitts-design).
+- [docsify-open-multicourse-starter-kit](https://hibbitts-design.github.io/docsify-open-multicourse-starter-kit/#/) - A MultiCourse variation of the Docsify Open Course Starter Kit to quickly create a Markdown-based open multi-course site with the site generator Docsify. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes an optional "Edit this Page" link. @hibbittsdesign.
 - [docsify-open-publishing-starter-kit](https://hibbitts-design.github.io/docsify-open-publishing-starter-kit) - A ready-to-use template to create a Docsify open publishing site. Global navigation elements can be hidden for seamlessly embedding pages into other platforms. Includes an optional "Edit this Page" link. @hibbittsdesign.
 - [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core) - This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.
 - [:construction_worker: :orange_book: docsify-js-tutorial](https://michaelcurrin.github.io/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. @MichaelCurrin.
@@ -177,6 +185,9 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-plugin-title](https://github.com/Sujaykumarh/docsify-plugin-title) - Customize docisify page title. [@sujaykumarh](https://github.com/sujaykumarh)
 - [docsify-drawio](https://github.com/KonghaYao/docsify-drawio) - This is a docsify plugin that can convert drawio xml Data to a picture in your docs. [@KonghaYao](https://github.com/KonghaYao)
 - [docsify-plugin-footer](https://github.com/Sujaykumarh/docsify-plugin-footer) - Simplified docisify page footer. @sujaykumarh.
+- [docsify-demo](https://github.com/JacobWeinbren/docsify-demo) - Docsify component demo, suited for [lit.dev](https://lit.dev/). [@JacobWeinren](https://github.com/JacobWeinbren/)
+- [docsify-nomnoml](https://mylesj.github.io/docsify-nomnoml) - A Docsify plugin to render Nomnoml-UML code fences (themeable).
+- [docsify-accordion](https://github.com/isaozler/docsify-accordion) - Small plugin to use accordions in your docsify documentations [@isaozler](https://github.com/isaozler).
 
 ## Themes
 
