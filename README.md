@@ -85,6 +85,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [breadbot](http://breadbot.js.org/) - A discord bot who likes bread -or jokes.
 - [幸福拾荒者](https://xflihaibo.github.io/docs/#/) - A poetic front-end documentation library.
 - [字节飞扬](https://bytesfly.github.io/blog/) - A blog documenting personal growth. (互联网是有记忆的，我想留下一些成长的脚印)
+- [侠客岛](https://bytesfly.github.io/island/) - A back-end stack sharing platform. (一个后端技术栈分享平台，主要专注于后端相关的专题学习、读书笔记、技术文档等)
 - [euchre-cli](https://bradleycwojcik.github.io/euchre-cli/) - Play euchre in your terminal.
 - [fastdocs.io](https://fastdocs.io/) - Instantly deploy your docs with Docsify without any code!
 - [Anki](https://docs.ankiweb.net/) - A powerful cross-platform flashcard program which makes remembering things easy.
@@ -113,6 +114,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [NOJ Online Judge](https://njuptaaa.github.io/docs) - Yet another open-source online judge platform based on Laravel, NOJ stands for Nanjing University of Posts and Telecommunications Online Judge.
 - [ShellTutorial](https://archlinuxstudio.github.io/ShellTutorial/) - Shell Tutorial. (Linux 命令行与 Shell 脚本教程)
 - [node-musickit-api](https://musickit.js.org/) - Documentation for node-musickit-api, a wrapper for the Apple Music API.
+- [LabVIEW编程经验](https://lv.qizhen.xyz/) - A book for LabVIEW programing. 
 
 ## Community Resources
 
@@ -123,6 +125,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [:construction_worker: :orange_book: docsify-js-tutorial](https://michaelcurrin.github.io/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. @MichaelCurrin.
 - [docsify-notebooks](https://github.com/MonkeyAndres/docsify-notebooks) - Template for building notebooks with DocsifyJS. Made with ❤️ by @MonkeyAndres.
 - :whale: [docsify-docker](https://github.com/Sujaykumarh/docsify-docker) - :whale2: Docisify Docker image. @sujaykumarh
+- [docsify-nightly](https://github.com/sy-records/docsify-nightly) - Nightly release for docsify. @sy-records.
 
 ## Plugins
 
@@ -188,6 +191,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-demo](https://github.com/JacobWeinbren/docsify-demo) - Docsify component demo, suited for [lit.dev](https://lit.dev/). [@JacobWeinren](https://github.com/JacobWeinbren/)
 - [docsify-nomnoml](https://mylesj.github.io/docsify-nomnoml) - A Docsify plugin to render Nomnoml-UML code fences (themeable).
 - [docsify-accordion](https://github.com/isaozler/docsify-accordion) - Small plugin to use accordions in your docsify documentations [@isaozler](https://github.com/isaozler).
+- [docsify-to-queryparam-markdown-engine](https://github.com/ShowMeBaby/docsify-to-queryparam-markdown-engine) - Use docsify as markdown engine, get markdown link from queryparam and render.(渲染query参数中的markdown文件)
 
 ## Themes
 
