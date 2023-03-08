@@ -34,7 +34,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [samlify](https://samlify.js.org) - Node.js SAML2 library.
 - [palettify](https://dobromir-hristov.github.io/palettify/) - A color palette effects assistant.
 - [commitlint](https://marionebl.github.io/commitlint/) - Lint commit messages.
-- [vue-data-tables](https://www.njleonzhang.com/vue-data-tables) - A simple and customizable data table, based on vue2 and element-ui.
+- [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - A simple and customizable data table, based on vue2 and element-ui.
 - [Noty](http://ned.im/noty/) - A Dependency-free notification library.
 - [xTeko](https://docs.xteko.com/) - Addins framework for Pin 3.0.
 - [vue2-datatable-component](https://onewaytech.github.io/vue2-datatable/doc) - The best Datatable for Vue.js 2.x which never sucks.
@@ -135,6 +135,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [liblava](https://liblava.github.io) - A modern and easy-to-use library for the Vulkan® API.
 - [medusa-extender](https://adrien2p.github.io/medusa-extender/#/) - A medusa e-commerce module to give full extensibility power over medusa engine 💜.
 - [八尺妖剑的文档库](https://docs.waer.ltd/#/) - A personal project documentation repository.
+- [做字体网](http://www.zuoziti.com/) - A website that teaches people to make Chinese handwriting fonts. (如何制作有版权的手写字体并出售?)
+- [Condorcet.io](https://www.condorcet.io) - Documentation for the [Condorcet PHP](https://github.com/julien-boudry/Condorcet) project.
 
 ## Community Resources
 
@@ -149,6 +151,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-nightly](https://github.com/sy-records/docsify-nightly) - Nightly release for docsify. @sy-records.
 - [docker-docsify-pdf](https://github.com/kernoeb/docker-docsify-pdf) - Quickly create a PDF with a table of contents and a custom cover, using Docker. [@kernoeb](https://github.com/kernoeb).
 - [WPDocsify](https://github.com/mitchell-b-chelin/WPDocsify) - A magical documentation library for WordPress.
+- :hatching_chick:[docsify-Preview](https://marketplace.visualstudio.com/items?itemName=dzylikecode.docsify-preview):penguin: - A VSCode extension for previewing docsify markdown files in VSCode. Supports auto-refresh, sync scroll, open the Markdown from the preview, open the preview in the default browser.:mushroom:
+- [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) - A ready-to-use template to create your own Docsify plugin from scratch.
 
 ## Plugins
 
@@ -171,7 +175,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-commento](https://github.com/ndom91/docsify-commento) - Append [commento](https://gitlab.com/commento/commento) section to the bottom of every page [@ndom91](https://github.com/ndom91).
 - [docsify-gifcontrol](https://gbodigital.github.io/docsify-gifcontrol) - A docsify plugin that adds customizable player controls to GIFs. [@adambergman](https://github.com/adambergman) from [@gbodigital](https://github.com/gbodigital).
 - [docsify-example-panels](https://github.com/VagnerDomingues/docsify-example-panels) - A plugin for rendering slate alike right example panels.
-- [docsify-glossary](https://github.com/TheGreenToaster/docsify-glossary) - A plugin to create a simple glossary for common terms.
+- [docsify-glossary](https://github.com/stijn-dejongh/docsify-glossary) - A plugin to create a simple glossary for common terms. Revision of [the original glossary plugin](https://github.com/TheGreenToaster/docsify-glossary) containing bugfixes and additional configuration options. [@stijn-dejongh](https://github.com/stijn-dejongh).
 - [docsify-toc](https://github.com/mrpotatoes/docsify-toc) - Add a `Table of Contents` to your site. [@mrpotatoes](https://github.com/mrpotatoes).
 - [docsify-fontawesome](https://github.com/erickjx/docsify-fontawesome) - Add FontAwesome to documentation by tokens.
 - [docsify-footer-enh](https://github.com/erickjx/docsify-footer-enh) - Footer Enhancement plugin.
@@ -187,6 +191,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-livere💬](https://github.com/TaQini/docsify-livere) - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 - [docsify-select](https://github.com/jthegedus/docsify-select) - Variably render content with select menus in markdown.
 - [docsify-mermaid](https://github.com/Leward/mermaid-docsify) - A plugin to render mermaid diagrams in docsify.
+- [docsify-mermaid-zoom](https://github.com/corentinleberre/docsify-mermaid-zoom) - A simple plugin enabling zoom in mermaid diagrams (and svg).
 - [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
 - [docsify-pangu](https://github.com/sy-records/docsify-pangu) - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between. [@sy-records](https://github.com/sy-records).
 - [docsify-gtlfexplorer](https://github.com/X-Ryl669/docsify-gltfexplorer) - A plugin to embed a manipulable 3D model in your documentation.
@@ -226,6 +231,13 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit) - A docsify plugin for rendering and embedding interactive JavaScript REPLs powered by [RunKit](https://runkit.com/home) ([@jhildenbiddle][1]).
 - [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads) - A docsify.js plugin for rendering ad placements from [EthicalAds](https://www.ethicalads.io/) ([@jhildenbiddle][1]).
 - [docsify-latex](https://scruel.github.io/docsify-latex) - A docsify.js plugin for typesetting LaTeX with display engines from markdown, [@scruel](https://github.com/scruel/docsify-latex).
+- [docsify-live-demo](https://github.com/kossidts/docsify-live-demo) - A docsify plugin to showcase frontend code and let clients/readers interact with the code, [kossidts](https://github.com/kossidts).
+- [docsify-baidu-tj](https://github.com/mg0324/docsify-baidu-tj) - A docsify plugin for Baidu Statistics.
+- [docsify-giscus](https://github.com/mg0324/docsify-giscus) - A docsify plugin to support giscus reviews.
+- [docsify-gitalk](https://github.com/mg0324/docsify-gitalk) - A docsify plugin to support gitalk plus.
+- [docsify-busuanzi](https://github.com/mg0324/docsify-busuanzi) - A docsify plugin to enable busuanzi, show your site visit data.
+- [docsify-ads](https://github.com/mg0324/docsify-ads) - A docsify plugin to show your ad.
+- [docsify-plugin-meting-api](https://github.com/lisuke/docsify-plugin-meting-api) -  A docsify.js plugin for meting-api.
 
 ## Themes
 
@@ -242,6 +254,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - Amazon - [style-dictionary](https://amzn.github.io/style-dictionary/#/)
 - Netflix - [Polly.js](https://netflix.github.io/pollyjs/) - Record, replay, and stub HTTP interactions.
 - Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
+- Microsoft - [AI-For-Beginners](https://github.com/microsoft/ai-for-beginners) - 24 Lessons, 12-Weeks, Curriculum All About Artificial Intelligence For Beginners.
 
 ## Contributing
 
