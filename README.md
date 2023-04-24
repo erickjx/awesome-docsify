@@ -136,6 +136,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [八尺妖剑的文档库](https://docs.waer.ltd/#/) - A personal project documentation repository.
 - [做字体网](http://www.zuoziti.com/) - A website that teaches people to make Chinese handwriting fonts. (如何制作有版权的手写字体并出售?)
 - [Condorcet.io](https://www.condorcet.io) - Documentation for the [Condorcet PHP](https://github.com/julien-boudry/Condorcet) project.
+- [🤖 chatgpt.js](https://chatgpt.js.org) - A powerful client-side JavaScript library for ChatGPT.
 
 ## Community Resources
 
@@ -240,6 +241,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-plugin-meting-api](https://github.com/lisuke/docsify-plugin-meting-api) -  A docsify.js plugin for meting-api.
 - [docsify-sign-off-sheet](https://github.com/dolanmiu/docsify-sign-off-sheet) - A Doscify plugin to add a review process to keep documentation up to date and relevant.
 - [docsify-mango-valine](https://github.com/mg0324/docsify-mango-valine) - A docsify plugin for support valine comments, expose config item.
+- [docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) - A docsify plugin to add pretty terminal code blocks 🖥️ to your docs. It has `Copy to Clipboard` functionality too.
+- [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - JavaScript course to start as begineer and upskill to clear staff/principal level interviews.
 
 ## Themes
 
