@@ -137,6 +137,10 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [做字体网](http://www.zuoziti.com/) - A website that teaches people to make Chinese handwriting fonts. (如何制作有版权的手写字体并出售?)
 - [Condorcet.io](https://www.condorcet.io) - Documentation for the [Condorcet PHP](https://github.com/julien-boudry/Condorcet) project.
 - [🤖 chatgpt.js](https://chatgpt.js.org) - A powerful client-side JavaScript library for ChatGPT.
+- [AirQo docs](https://wiki.airqo.net) - A documentation site for [AirQo](https://airqo.net)'s products.
+- [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - JavaScript course to start as begineer and upskill to clear staff/principal level interviews.
+- [Sakura Docs](https://sakura-docs.arkinsolomon.net) - A programming language designed for package installers.
+- [Ransomware.live](https://www.ransomware.live) - A monitoring ransomware's victims in near real-time. 
 
 ## Community Resources
 
@@ -154,8 +158,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - :hatching_chick:[docsify-Preview](https://marketplace.visualstudio.com/items?itemName=dzylikecode.docsify-preview):penguin: - A VSCode extension for previewing docsify markdown files in VSCode. Supports auto-refresh, sync scroll, open the Markdown from the preview, open the preview in the default browser.:mushroom:
 - [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) - A ready-to-use template to create your own Docsify plugin from scratch.
 - [try-docsify](https://github.com/alertbox/devcontainers-try-docsify) - A ready to go [docsify-template](https://github.com/docsifyjs/docsify-template) repo powered by [Dev Containers](https://containers.dev) that requires no build steps.
-- [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - JavaScript course to start as begineer and upskill to clear staff/principal level interviews.
-- [Sakura Docs](https://sakura-docs.arkinsolomon.net) - A programming language designed for package installers.
 
 ## Plugins
 
@@ -248,6 +250,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-gitalk-with-footer](https://github.com/pikapikapikaori/docsify-gitalk-with-footer) - A plugin that fixs gitalk comment problem while using docsify hash mode. It can also add a footer under gitalk container. [@pikapikapikaori](https://github.com/pikapikapikaori)
 - [docsify-versioned-plugin](https://github.com/UliGall/docsify-versioned-plugin) -  A plugin that enables multiple versions of your documentation. The users can switch between versions using a dropdown menu in the navigation bar.  [@UliGall](https://github.com/UliGall)
 - [docsify-termynal](https://github.com/sxin0/docsify-termynal) - A plugin for lightweight and modern animated terminal window from markdown. [@sxin0](https://github.com/sxin0)
+- [docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js) - 🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify.
 
 ## Themes
 
