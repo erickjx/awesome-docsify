@@ -13,6 +13,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 ## Contents
 
 <!-- no toc -->
+
 - [Showcase](#showcase)
 - [Community Resources](#community-resources)
 - [Plugins](#plugins)
@@ -99,7 +100,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Nebra Helium Docs](https://helium.nebra.com) - The documentation of the Helium HNT Hotspot Miners from Nebra Ltd.
 - [Attacking Javaer](https://veal98.gitee.io/cs-wiki/#/) - Attacking Javaer computer science wiki, running hard on the road to the full stack.
 - [X-M-UI](https://monw3c.github.io/xmui/) - A vue project for X-M-UI.
-- [sa-token](http://sa-token.dev33.cn/) - A lightweight Java authority authentication framework. (一个轻量级java权限认证框架)
+- [sa-token](http://sa-token.dev33.cn/) - A lightweight Java authority authentication framework. (一个轻量级 java 权限认证框架)
 - [celery.node](https://celery-node.js.org) - Celery task queue client/worker for Node.js.
 - [asdf](https://asdf-vm.com/) - A version manager for multiple languages and clis.
 - [Corhyam's Wiki](http://corhyam.xyz/) - A personal wiki that deploys to the cloud rapidly, based on Serverless Framework.
@@ -114,7 +115,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [NOJ Online Judge](https://njuptaaa.github.io/docs) - Yet another open-source online judge platform based on Laravel, NOJ stands for Nanjing University of Posts and Telecommunications Online Judge.
 - [ShellTutorial](https://archlinuxstudio.github.io/ShellTutorial/) - Shell Tutorial. (Linux 命令行与 Shell 脚本教程)
 - [node-musickit-api](https://musickit.js.org/) - Documentation for node-musickit-api, a wrapper for the Apple Music API.
-- [LabVIEW编程经验](https://lv.qizhen.xyz/) - A book for LabVIEW programing.
+- [LabVIEW 编程经验](https://lv.qizhen.xyz/) - A book for LabVIEW programing.
 - [Coding-Tree](https://mouday.github.io/coding-tree/) - Learn Notes for coding, include: js、Python、PHP、Java、Canvas.
 - [Hathora](https://docs.hathora.dev/) - Multiplayer game framework.
 - [@nathanpb/Kext (Kotlin Extensions for TypeScript)](https://kext.nathanpb.dev/) - Kotlin inspired TypeScript utility library for easy and declarative programming.
@@ -140,7 +141,14 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [AirQo docs](https://wiki.airqo.net) - A documentation site for [AirQo](https://airqo.net)'s products.
 - [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - JavaScript course to start as begineer and upskill to clear staff/principal level interviews.
 - [Sakura Docs](https://sakura-docs.arkinsolomon.net) - A programming language designed for package installers.
-- [Ransomware.live](https://www.ransomware.live) - A monitoring ransomware's victims in near real-time. 
+- [Ransomware.live](https://www.ransomware.live) - A monitoring ransomware's victims in near real-time.
+- [hope](https://cmai.xin/#/) - A blog documenting my findings as a software developer.
+- [CASE Doc](https://docs.case.app/) - Documentation for [CASE](https://case.app/), an Open Source tool for building web applications in minutes.
+- [文档箱](https://yjava.cn/) - Documentation for thoughts.
+- [LIGMATV](https://ligmatv.vercel.app) - Home of my open blogs 📖.
+- [UIBUILDER for Node-RED documentation](https://totallyinformation.github.io/node-red-contrib-uibuilder) - Documentation for the UIBUILDER contributed nodes for Node-RED, the low-code development tool.
+- [IT Standards for NHS England](https://nhsengland.github.io/it-standards) - Some guidance on the use of technology in NHS England.
+- [hmpl docs](https://hmpljs.github.io) - Documentation for the hmpl template language.
 
 ## Community Resources
 
@@ -168,6 +176,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-pagination](https://github.com/imyelo/docsify-pagination) - Pagination for docsify [@imyelo](https://github.com/imyelo).
 - [docsify-plantuml](https://github.com/imyelo/docsify-plantuml) - PlantUML for docsify @imyelo.
 - [docsify-puml](https://github.com/indieatom/docsify-puml) - Docsify plugin to parse PlantUML content [@indieatom](https://github.com/indieatom).
+- [docsify-xmind](https://github.com/AntHubTC/docsify-xmind) - Docsify plugin to preview of your xmind file [@AntHubTC](https://github.com/AntHubTC).
 - [docsify-copy-code](https://github.com/jperasmus/docsify-copy-code) - A docsify plugin that copies Markdown code block to your clipboard [@jperasmus](https://github.com/jperasmus).
 - [docsify-demo-box-vue](https://github.com/njleonzhang/docsify-demo-box-vue) - Write Vue demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/).
 - [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - Write React jsx demo in docsify with instant preview and jsfiddle integration @njleonzhang.
@@ -210,7 +219,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-wikilink](https://github.com/zpengg/docsify-wikilink) - A plugin that allows wiki internal link syntax by using double square brackets like `[[pagename|link text]]`.
 - [docsify-link-preview](https://github.com/puria/docsify-link-preview) - A plugin to render link previews.
 - [docsify-pseudocode](https://h-hg.github.io/docsify-pseudocode) - A plugin to render pseudocode in docsify. [@h-hg](https://github.com/h-hg/docsify-pseudocode)
-- [docsify-footer](https://alertbox.github.io/docsify-footer) - A markdown _footer.md plugin for docsify-enabled sites. [@alertbox](https://github.com/alertbox).
+- [docsify-footer](https://alertbox.github.io/docsify-footer) - A markdown \_footer.md plugin for docsify-enabled sites. [@alertbox](https://github.com/alertbox).
 - [docsify-code-inline](https://www.npmjs.com/package/@rakutentech/docsify-code-inline) - Enables syntax highlighting for inline code as well, not just code fences. Never again will inline code look dull. [@rakutentech](https://rakutentech.github.io/)
 - [docsify-beian](https://github.com/HerbertHe/docsify-beian) - A plugin to add Chinese Beian Information in docsify. [@HerbertHe](https://github.com/HerbertHe)
 - [docsify-progress](https://github.com/HerbertHe/docsify-progress) - A plugin to render reading progress in docsify. @HerbertHe.
@@ -224,7 +233,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-demo](https://github.com/JacobWeinbren/docsify-demo) - Docsify component demo, suited for [lit.dev](https://lit.dev/). [@JacobWeinren](https://github.com/JacobWeinbren/)
 - [docsify-nomnoml](https://mylesj.github.io/docsify-nomnoml) - A Docsify plugin to render Nomnoml-UML code fences (themeable).
 - [docsify-accordion](https://github.com/isaozler/docsify-accordion) - Small plugin to use accordions in your docsify documentations [@isaozler](https://github.com/isaozler).
-- [docsify-to-queryparam-markdown-engine](https://github.com/ShowMeBaby/docsify-to-queryparam-markdown-engine) - Use docsify as markdown engine, get markdown link from queryparam and render.(渲染query参数中的markdown文件)
+- [docsify-to-queryparam-markdown-engine](https://github.com/ShowMeBaby/docsify-to-queryparam-markdown-engine) - Use docsify as markdown engine, get markdown link from queryparam and render.(渲染 query 参数中的 markdown 文件)
 - [docsify-vega](https://jercarre.github.io/vega_docsify) - A Docsify plugin to render Vega & Vegalite diagrams.
 - [docsify-swimlanes-io](https://github.com/drhoffmann/docsify-swimlanes-io) - A Docsify plugin to render [swimlanes.io](https://swimlanes.io) sequence diagrams.
 - [docsify-updated](https://github.com/pfeak/docsify-updated) - Add update time for each of your docsify markdown.
@@ -242,21 +251,36 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-gitalk](https://github.com/mg0324/docsify-gitalk) - A docsify plugin to support gitalk plus.
 - [docsify-busuanzi](https://github.com/mg0324/docsify-busuanzi) - A docsify plugin to enable busuanzi, show your site visit data.
 - [docsify-ads](https://github.com/mg0324/docsify-ads) - A docsify plugin to show your ad.
-- [docsify-plugin-meting-api](https://github.com/lisuke/docsify-plugin-meting-api) -  A docsify.js plugin for meting-api.
+- [docsify-plugin-meting-api](https://github.com/lisuke/docsify-plugin-meting-api) - A docsify.js plugin for meting-api.
 - [docsify-sign-off-sheet](https://github.com/dolanmiu/docsify-sign-off-sheet) - A Doscify plugin to add a review process to keep documentation up to date and relevant.
 - [docsify-mango-valine](https://github.com/mg0324/docsify-mango-valine) - A docsify plugin for support valine comments, expose config item.
 - [docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) - A docsify plugin to add pretty terminal code blocks 🖥️ to your docs. It has `Copy to Clipboard` functionality too.
 - [docsify-docx-converter](https://github.com/simonguo/docsify-docx-converter) - A tool for building docx based on your docsify project. [@simonguo](https://github.com/simonguo)
 - [docsify-gitalk-with-footer](https://github.com/pikapikapikaori/docsify-gitalk-with-footer) - A plugin that fixs gitalk comment problem while using docsify hash mode. It can also add a footer under gitalk container. [@pikapikapikaori](https://github.com/pikapikapikaori)
-- [docsify-versioned-plugin](https://github.com/UliGall/docsify-versioned-plugin) -  A plugin that enables multiple versions of your documentation. The users can switch between versions using a dropdown menu in the navigation bar.  [@UliGall](https://github.com/UliGall)
+- [docsify-versioned-plugin](https://github.com/UliGall/docsify-versioned-plugin) - A plugin that enables multiple versions of your documentation. The users can switch between versions using a dropdown menu in the navigation bar. [@UliGall](https://github.com/UliGall)
 - [docsify-termynal](https://github.com/sxin0/docsify-termynal) - A plugin for lightweight and modern animated terminal window from markdown. [@sxin0](https://github.com/sxin0)
 - [docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js) - 🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify.
+- [docsify-hide-code](https://github.com/jl15988/docsify-hide-code) - A docsify plugin that hide code.
+- [docsify-footnote](https://github.com/Robert-Du0001/docsify-footnote) - A docsify plugin for footnote in markdown.
+- [docsify-plugin-page-history](https://github.com/simochee/docsify-plugin-page-history) - A plugin for per-by-page history.
+- [docsify-bilibili](https://github.com/denganliang/docsify-bilibili) - A docsify plugin for easy to show biliblili video in markdown.
+- [docsify-betterembed](https://github.com/FlippedCodes/docsify-betterembed) - A docsify.js plugin to embed selective areas from another markdown file.
+- [docsify-navbar-fixed](https://github.com/LIGMATV/docsify-navbar-fixed) - A new always on top customizable and pretty navigation bar for your docs.
+- [docsify-vite-coverpage](https://github.com/LIGMATV/docsify-vite-coverpage) - A new responsive vite-like coverpage for your docs.
+- [docsify-dark-switcher](https://github.com/LIGMATV/docsify-dark-switcher) - Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.
+- [docsify-auth](https://github.com/mg0324/docsify-auth) - A docsify plugin for support page auth with config.
+- [docsify-breadcrumb](https://github.com/FranCarstens/docsify-breadcrumb) - Add a customizable breadcrumb to the top of each page.
 
 ## Themes
 
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+) ([@jhildenbiddle][1]).
 - [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
 - [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between `dark-mode` and `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
+- [🧛🏻docsify-theme-darcula](https://github.com/A5yncX/docsify-theme-darcula) - A comfortable darcula style dark theme. [Preview](https://mellow-crepe-abaf27.netlify.app/docs/#/) . ([@A5yncX](https://github.com/A5yncX))
+- [😺 docsify-theme-github](https://github.com/LIGMATV/docsify-theme-github) - The minimal amount of CSS to replicate the GitHub Markdown style. [Preview](https://docsify-theme-github.vercel.app/) ~ [@LIGMATV](https://github.com/LIGMATV).
+- [💾 docsify-theme-98](https://github.com/LIGMATV/docsify-theme-98) - Bring back the old Windows Classic theme in Docsify. [Preview](https://docsify-theme-98.vercel.app/) ~ @LIGMATV.
+- [🏞️ docsify-theme-xp](https://github.com/LIGMATV/docsify-theme-xp) - Bring back the old Luna XP theme in Docsify. [Preview](https://docsify-theme-xp.vercel.app/) ~ @LIGMATV.
+- [✨ docsify-theme-vista](https://github.com/LIGMATV/docsify-theme-vista) - Bring back the old Aero theme in Docsify. [Preview](https://docsify-theme-vista.vercel.app/) ~ @LIGMATV.
 
 ## Enterprise Usage
 
@@ -277,5 +301,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 [Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors)
 
+<a href="https://github.com/docsifyjs/awesome-docsify/graphs/contributors"><img src="https://contrib.rocks/image?repo=docsifyjs/awesome-docsify&columns=34" /></a>
+
 <!-- Place multiple link references here to avoid lint errors -->
+
 [1]: https://github.com/jhildenbiddle/
