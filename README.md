@@ -88,6 +88,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [幸福拾荒者](https://xflihaibo.github.io/docs/#/) - A poetic front-end documentation library.
 - [字节飞扬](https://bytesfly.github.io/blog/) - A blog documenting personal growth. (互联网是有记忆的，我想留下一些成长的脚印)
 - [侠客岛](https://bytesfly.github.io/island/) - A back-end stack sharing platform. (一个后端技术栈分享平台，主要专注于后端相关的专题学习、读书笔记、技术文档等)
+- [Navyum's Blog](https://blog.camscanner.top/) - Learn computer science Systematically. (系统化学习计算机知识，大模型、踩坑日记、技术文档等)
 - [euchre-cli](https://bradleycwojcik.github.io/euchre-cli/) - Play euchre in your terminal.
 - [fastdocs.io](https://fastdocs.io/) - Instantly deploy your docs with Docsify without any code!
 - [Anki](https://docs.ankiweb.net/) - A powerful cross-platform flashcard program which makes remembering things easy.
@@ -150,6 +151,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [IT Standards for NHS England](https://nhsengland.github.io/it-standards) - Some guidance on the use of technology in NHS England.
 - [hmpl docs](https://hmpljs.github.io) - Documentation for the hmpl template language.
 - [code-segment](https://eveningwater.github.io/code-segment/#/) - Here is a collection of some code snippets, which may be from the Internet or from daily accumulation.
+- [Awesome Web Dev Resources](https://web-dev-resources.com/list/#/) - Collection of web development resources with free tiers.
 
 ## Community Resources
 
@@ -271,6 +273,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-dark-switcher](https://github.com/LIGMATV/docsify-dark-switcher) - Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.
 - [docsify-auth](https://github.com/mg0324/docsify-auth) - A docsify plugin for support page auth with config.
 - [docsify-breadcrumb](https://github.com/FranCarstens/docsify-breadcrumb) - Add a customizable breadcrumb to the top of each page.
+- [docsify-fontsize](https://github.com/SDU-Little-River/docsify-fontsize) - A docsify plugin allow users to customize the font size.
 
 ## Themes
 
